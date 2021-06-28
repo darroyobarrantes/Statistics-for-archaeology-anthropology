@@ -1,7 +1,7 @@
 # Statistics-for-archaeology-anthropology
 
-Prof. D. Arroyo
-UCR, University of Cambridge, UCL
+This is Prof. D. Arroyo's data science portfolio
+(UCR, University of Cambridge, UCL)
 
 👀 I’m interested in archaeology, data science, quantitative analysis and applied artificial intelligence
 🌱 I’m currently learning Tensorflow
