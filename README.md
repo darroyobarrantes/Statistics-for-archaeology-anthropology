@@ -20,7 +20,7 @@ List of Contents:
 7. Pottery Analysis
 8. Spatial Analysis
 9. C14 Dating
-10. Primatology
+10. Primatology Analysis
 12. Genetic Statistics
 13. Forecasting
 14. Business Intelligence and Visualization
