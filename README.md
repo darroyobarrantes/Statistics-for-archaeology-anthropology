@@ -1,6 +1,11 @@
 # Statistics-for-archaeology-anthropology
 
-Prof. Daniela Arroyo
+Prof. D. Arroyo
+UCR, University of Cambridge, UCL
+
+👀 I’m interested in archaeology, data science, quantitative analysis and applied artificial intelligence
+🌱 I’m currently learning Tensorflow
+💞️ I’m looking to collaborate on creating data management and imputation packages for anthropology and archaeology
 
 This repository provides different readings and tools for statistical analysis and the application of artificial intelligence to archaeology and anthropology. 
 This is an agnostic tool set: code can be both written in R Statistical Package or Python language, depending on the suitability of the packages and tools in each language. Visualization can also be achieved through Tableau or Power BI
