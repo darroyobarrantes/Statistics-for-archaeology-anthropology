@@ -1,17 +1,17 @@
-1. Archaeological and AnthBio datasets and most common variable types
+1. Archaeological and AnthBio datasets
 
 Archaeologists and Anthropologist can analyse a myriad of manifestations of the past and the present's material culture. 
 Examples of some of the most common kinds of data, a description and their data type are summarized in this section.
 
 Archaeology
 - Ancient Languages
+- Archaeozoology
 - Pottery
 - Stone Tools
-- Spatial Data
-- Archaeozoology
+- Landscape and Spatial Analysis
 
 Anthropology
 - Biological Anthropology:
+  - Human Evolution and population genetics
   - Morphogenetics
-  - Human evolution and hominids
-  - 
+- Physical Anthropology
