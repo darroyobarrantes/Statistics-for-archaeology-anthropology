@@ -1,4 +1,4 @@
-This section covers the following forecasting techniques using StatsModels and ScikitLearn, with add-ons for specfic techniques such as XGBoost. 
+This section covers the following forecasting techniques using StatsModels and ScikitLearn, with add-ons for specific techniques such as XGBoost. 
 
 ##Statistical Approaches:
 1. Autoregression (AR)
